@@ -6,7 +6,7 @@ This PowerShell script, `osinstalldate.ps1`, is designed to fetch and display th
 
 - **Easy to Use**: Run the script in PowerShell to get the OS installation date.
 - **Portable**: No external dependencies, works on any Windows machine with PowerShell installed.
-- **Record**: Can send its gathered data top a .txt file.
+- **Record**: Can send its gathered data to a .txt file.
 
 ## Prerequisites
 
